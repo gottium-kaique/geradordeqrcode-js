@@ -11,7 +11,7 @@ a cor clara, e a cor escura.
 
 ### Foto do projeto
 
-<img src=".github/background.png" height="40px">
+<img src=".github/background.png" height="400px">
 
 ## Autor
 
