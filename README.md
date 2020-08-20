@@ -17,4 +17,4 @@ a cor clara, e a cor escura.
 
 👤 **Kaique Araújo**
 
-<h4 align="center">Feito com ❤️, HTML, CSS e JavaScript.</h3>
+<h4 align="left">Feito com ❤️, HTML, CSS e JavaScript.</h3>
