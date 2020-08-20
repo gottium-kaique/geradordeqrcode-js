@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Gerador de QRCode</title>
+    <meta name="author" content="Kaique Araújo">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app">
+    
+        <div class="qr" style="user-select: none;"></div>
+
+        <div class="content">
+
+            <h1>Gerador de QR Code</h1>
+
+            <strong>Fundo: </strong><input type="color" value="#00ccaa"><br>
+            <strong>Contraste: </strong><input type="color"><br>
+
+            <strong>Texto: </strong>
+
+            <input type="text" placeholder="Digite um texto">
+            <br>
+            <button type="submit">GERAR QR CODE</button>
+
+            <a href="" download="qrcode.png" id="download"><button>BAIXAR QRCODE</button></a>
+
+        </div>
+    </div>
+
+    <!--Usando biblioteca de QRCode-->
+
+    <script src="qrcode.js"></script>
+    <script src="app.js"></script>
+
+</body>
+</html>
